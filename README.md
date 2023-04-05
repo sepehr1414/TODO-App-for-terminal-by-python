@@ -14,9 +14,7 @@
 
 
 In this project, a CLI TODO app is made by typer, rich, and sqllite.
-In the original version of this program, developed by Patrick Loeber,
-a task can be added, updated, and deleted, but in this project,
-there are more features such as ..... Added.
+
 
 
 # How to run:
